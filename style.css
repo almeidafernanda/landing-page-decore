@@ -228,23 +228,20 @@ nav ul {
     }
 }
 
-#quem-somos {
+.quem-somos {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color:#f2f2f2;
 }
 
-#quem-somos > h2 {
+.quem-somos > h2 {
     text-align: center;
     padding-bottom: 20px;
 }
 
-#quem-somos > iframe {
-    max-width: 560px;
-    width: 100%;
-}
 
 #produtos {
     margin-top: 60px;
