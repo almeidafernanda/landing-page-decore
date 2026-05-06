@@ -245,6 +245,7 @@ nav ul {
 #quem-somos > iframe {
     max-width: 560px;
     width: 100%;
+    align-items:center;
 }
 
 
