@@ -242,6 +242,11 @@ nav ul {
     padding-bottom: 20px;
 }
 
+#quem-somos > iframe {
+    max-width: 560px;
+    width: 100%;
+}
+
 
 #produtos {
     margin-top: 60px;
